@@ -1,2 +1,0 @@
-# HocGiDay
-Learn Chinese !
